@@ -1,11 +1,10 @@
-# --- Windows / editor clutter ---
-Thumbs.db
-desktop.ini
-.DS_Store
-~$*
-*.tmp
+# Rhapsody: user-specific or regenerated files (not part of the model)
+*.rpwx
+*.rpw
+*.ehl
+load.log
 
-# --- Compiled output (rebuilt from the model every time) ---
+# Compiled output
 *.exe
 *.obj
 *.o
@@ -14,13 +13,9 @@ desktop.ini
 *.idb
 *.exp
 
-# --- Rhapsody generated code folders (OPTIONAL) ---
-# IBM logs show generated code in <project>/DefaultComponent/DefaultConfig.
-# These are NOT enabled yet, because I have not seen your project's real folder names.
-# After you run Generate/Make/Run once, check `git status`, then uncomment what is
-# really there:
-#DefaultComponent/
-
-# --- DO NOT ignore these: they ARE the model ---
-# *.rpy, *.rpyx and the whole <ProjectName>_rpy folder with the unit files
-# (*.sbs, *.sbsx). Never add rules that match them.
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
