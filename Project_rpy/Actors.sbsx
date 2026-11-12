@@ -12,13 +12,20 @@
 			<_id type="a">GUID fe7b80b6-c89e-4178-8212-fbbf1823252d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Actors</_name>
-			<_modifiedTimeWeak type="a">11.12.2026::14:28:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">11.12.2026::14:35:31</_modifiedTime>
-			<weakCGTime type="a">11.12.2026::14:28:18</weakCGTime>
+			<_modifiedTimeWeak type="a">11.12.2026::15:12:33</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">AVP_Package_Structure</_hname>
+					<_hid type="a">GUID d6e5e60a-5e81-4aa6-b4ad-859656c8ad45</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">11.12.2026::15:12:33</_modifiedTime>
+			<weakCGTime type="a">11.12.2026::15:12:33</weakCGTime>
 			<strongCGTime type="a">11.12.2026::14:28:18</strongCGTime>
 			<_defaultComposite type="s">GUID 144d4a4a-ab8f-4b22-9aa5-ecf0a1cce209</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 144d4a4a-ab8f-4b22-9aa5-ecf0a1cce209</value>
 			</AggregatesList>
@@ -28,7 +35,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
