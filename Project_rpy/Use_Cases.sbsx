@@ -12,7 +12,7 @@
 			<_id type="a">GUID 91039cca-8cdb-4bf8-87f3-486cb3de33e9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Use_Cases</_name>
-			<_modifiedTimeWeak type="a">11.12.2026::15:13:15</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.12.2026::15:31:15</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -20,14 +20,17 @@
 					<_hid type="a">GUID d6e5e60a-5e81-4aa6-b4ad-859656c8ad45</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">11.12.2026::15:13:15</_modifiedTime>
-			<weakCGTime type="a">11.12.2026::15:13:15</weakCGTime>
+			<_modifiedTime type="a">11.12.2026::15:31:15</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">11.12.2026::15:31:15</weakCGTime>
 			<strongCGTime type="a">11.12.2026::14:28:56</strongCGTime>
 			<_defaultComposite type="s">GUID f1897d83-d1e7-452f-8b5a-68a96076d29c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID f1897d83-d1e7-452f-8b5a-68a96076d29c</value>
+				<value>GUID 8d323e11-a298-4864-8173-4b5574c93591</value>
+				<value>GUID bc548951-8942-44ab-8831-86c3a6219c5d</value>
 			</AggregatesList>
 		</ISubsystem>
 		<IClass type="e">
@@ -44,6 +47,34 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 		</IClass>
+		<IActor type="e">
+			<_id type="a">GUID 8d323e11-a298-4864-8173-4b5574c93591</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Driver</_name>
+			<_modifiedTimeWeak type="a">11.12.2026::15:31:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.12.2026::15:31:11</_modifiedTime>
+			<weakCGTime type="a">11.12.2026::15:31:11</weakCGTime>
+			<strongCGTime type="a">11.12.2026::15:31:11</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IActor>
+		<IActor type="e">
+			<_id type="a">GUID bc548951-8942-44ab-8831-86c3a6219c5d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Pedestrain</_name>
+			<_modifiedTimeWeak type="a">11.12.2026::15:31:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.12.2026::15:31:19</_modifiedTime>
+			<weakCGTime type="a">11.12.2026::15:31:19</weakCGTime>
+			<strongCGTime type="a">11.12.2026::15:31:19</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IActor>
 		
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
